@@ -108,7 +108,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/knowledge-base-ui.git
+git clone https://github.com/yuvrajsaraogi/Knowledge-Base-UI.git
 cd knowledge-base-ui
 
 # 2. Install dependencies

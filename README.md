@@ -39,7 +39,7 @@
 
 ### 📊 Dashboard View
 
-![Knowledge Base Dashboard](screenshots/dashboard.png)
+![Knowledge Base Dashboard](knowledge-base-ui/screenshots/dashboard.png)
 
 *Responsive card grid with search, sidebar navigation, and pagination*
 
@@ -47,7 +47,7 @@
 
 ### ➕ Create Panel
 
-![Create Knowledge Base Panel](screenshots/create-panel.png)
+![Create Knowledge Base Panel](knowledge-base-ui/screenshots/create-panel.png)
 
 *Slide-in drawer with vector store & embedding model configuration*
 

@@ -109,7 +109,7 @@
 ```bash
 # 1. Clone the repo
 git clone https://github.com/yuvrajsaraogi/Knowledge-Base-UI.git
-cd knowledge-base-ui
+cd Knowledge-Base-UI
 
 # 2. Install dependencies
 npm install
@@ -582,7 +582,7 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # 1. Fork the repo, then clone your fork
-git clone https://github.com/yuvrajsaraogi/Knowledge-Base-UI.git
+git clone https://github.com/YOUR-USERNAME/knowledge-base-ui.git
 
 # 2. Create a feature branch
 git checkout -b feature/amazing-feature

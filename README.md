@@ -108,7 +108,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yuvrajsaraogi/Knowledge-Base-UI.git
+git clone https://github.com/your-username/knowledge-base-ui.git
 cd knowledge-base-ui
 
 # 2. Install dependencies
@@ -401,55 +401,55 @@ The main application shell that composes all other components:
   <tr>
     <td><code>brand</code></td>
     <td><code>#4F46E5</code></td>
-    <td><img src="https://via.placeholder.com/20/4F46E5/4F46E5" alt="#4F46E5" /></td>
+    <td><img src="https://placehold.co/20x20/4F46E5/4F46E5" alt="#4F46E5" /></td>
     <td>Primary buttons, active states, focus rings</td>
   </tr>
   <tr>
     <td><code>brandDark</code></td>
     <td><code>#1E1B4B</code></td>
-    <td><img src="https://via.placeholder.com/20/1E1B4B/1E1B4B" alt="#1E1B4B" /></td>
+    <td><img src="https://placehold.co/20x20/1E1B4B/1E1B4B" alt="#1E1B4B" /></td>
     <td>Dark accent color</td>
   </tr>
   <tr>
     <td><code>navBg</code></td>
     <td><code>#1a1545</code></td>
-    <td><img src="https://via.placeholder.com/20/1a1545/1a1545" alt="#1a1545" /></td>
+    <td><img src="https://placehold.co/20x20/1a1545/1a1545" alt="#1a1545" /></td>
     <td>Top navigation bar background</td>
   </tr>
   <tr>
     <td><code>cardBorder</code></td>
     <td><code>#E5E7EB</code></td>
-    <td><img src="https://via.placeholder.com/20/E5E7EB/E5E7EB" alt="#E5E7EB" /></td>
+    <td><img src="https://placehold.co/20x20/E5E7EB/E5E7EB" alt="#E5E7EB" /></td>
     <td>Card borders, dividers</td>
   </tr>
   <tr>
     <td><code>textPrimary</code></td>
     <td><code>#111827</code></td>
-    <td><img src="https://via.placeholder.com/20/111827/111827" alt="#111827" /></td>
+    <td><img src="https://placehold.co/20x20/111827/111827" alt="#111827" /></td>
     <td>Headings, primary body text</td>
   </tr>
   <tr>
     <td><code>textSecondary</code></td>
     <td><code>#6B7280</code></td>
-    <td><img src="https://via.placeholder.com/20/6B7280/6B7280" alt="#6B7280" /></td>
+    <td><img src="https://placehold.co/20x20/6B7280/6B7280" alt="#6B7280" /></td>
     <td>Descriptions, secondary labels</td>
   </tr>
   <tr>
     <td><code>textMuted</code></td>
     <td><code>#9CA3AF</code></td>
-    <td><img src="https://via.placeholder.com/20/9CA3AF/9CA3AF" alt="#9CA3AF" /></td>
+    <td><img src="https://placehold.co/20x20/9CA3AF/9CA3AF" alt="#9CA3AF" /></td>
     <td>Hints, placeholders, disabled text</td>
   </tr>
   <tr>
     <td><code>activeBg</code></td>
     <td><code>#EEF2FF</code></td>
-    <td><img src="https://via.placeholder.com/20/EEF2FF/EEF2FF" alt="#EEF2FF" /></td>
+    <td><img src="https://placehold.co/20x20/EEF2FF/EEF2FF" alt="#EEF2FF" /></td>
     <td>Active sidebar item background</td>
   </tr>
   <tr>
     <td><code>activeText</code></td>
     <td><code>#4F46E5</code></td>
-    <td><img src="https://via.placeholder.com/20/4F46E5/4F46E5" alt="#4F46E5" /></td>
+    <td><img src="https://placehold.co/20x20/4F46E5/4F46E5" alt="#4F46E5" /></td>
     <td>Active sidebar item text</td>
   </tr>
 </table>
@@ -582,7 +582,7 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # 1. Fork the repo, then clone your fork
-git clone https://github.com/yuvrajsaraogi/Knowledge-Base-UI.git
+git clone https://github.com/YOUR-USERNAME/knowledge-base-ui.git
 
 # 2. Create a feature branch
 git checkout -b feature/amazing-feature
